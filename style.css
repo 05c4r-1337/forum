@@ -1,0 +1,21 @@
+body{
+  background-color: #030303;
+}
+
+.post{
+  /*height: 100px;*/
+  background-color: #1a1a1b;
+  border-radius: 5px;
+  color: white;
+  border: 1px solid;
+  border-color: #343536;
+}
+
+.navbar{
+  background-color: #1a1a1b;
+}
+
+img{
+  width: 100%;
+  max-width: 800px;
+}
